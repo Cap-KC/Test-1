@@ -8,7 +8,9 @@ int main()
   scanf("%f",&n2);
   sum=n1+n2;
   printf("sum is\t" "%.2f",sum);
-  printf("end");
+  printf("end\n");
+  printf("updated");
+
   
 
 
