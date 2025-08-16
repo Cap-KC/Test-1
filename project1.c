@@ -7,7 +7,8 @@ int main()
   printf("Insert Number 2\n");
   scanf("%f",&n2);
   sum=n1+n2;
-  printf("%.2f",sum);
+  printf("sum is\t" "%.2f",sum);
+  printf("end");
   
 
 
