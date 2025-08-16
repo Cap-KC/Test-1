@@ -1,7 +1,14 @@
 #include <stdio.h>
 int main()
 {
-  printf("Insert Number 1")
+  float n1,n2,sum;
+  printf("Insert Number 1\n");
+  scanf("%f",&n1);
+  printf("Insert Number 2\n");
+  scanf("%f",&n2);
+  sum=n1+n2;
+  printf("%.2f",sum);
+  
 
 
 return 0;
